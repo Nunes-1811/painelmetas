@@ -1,0 +1,130 @@
+/* Geral */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+header {
+    background: #640303;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Formulário */
+.form-section {
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #3b8ca5;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+/* Lista */
+#lista-metas {
+    list-style: none;
+    padding: 0;
+}
+
+#lista-metas li {
+    background: white;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-left: 8px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    transform: translateY(20px);
+    animation: aparecer 0.4s forwards;
+}
+
+
+#lista-metas li.baixa {
+    border-left-color: #2ecc71;       
+    background: #e9f8ef;
+}
+
+#lista-metas li.media {
+    border-left-color: #f1c40f;          
+    background: #fdf6e3;
+}
+
+#lista-metas li.alta {
+    border-left-color: #e74c3c;         
+    background: #fdecea;
+}
+
+
+/* Concluído */
+.concluida h3, .concluida p {
+    opacity: 0.5;
+    text-decoration: line-through;
+    transition: 0.3s;
+}
+
+/* Botões dentro da lista */
+.btn-item {
+    margin-right: 10px;
+    padding: 5px 10px;
+}
+
+.btn-concluir {
+    background: green;
+}
+
+.btn-remover {
+    background: red;
+}
+
+.btn-concluir:hover,  .btn-remover:hover{
+    background: #2a5180;
+}
+
+/* Erros */
+.erro {
+    color: red;
+    margin-top: 10px;
+}
+
+/* Animação */
+@keyframes aparecer {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #666;
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Metas Diárias</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Painel de Metas Diárias</h1>
+    </header>
+
+    <main>
+
+        <!-- Formulário -->
+        <section class="form-section">
+            <h2>Adicionar Meta</h2>
+
+            <div class="form-group">
+                <label>Título:</label>
+                <input type="text" id="titulo">
+            </div>
+
+            <div class="form-group">
+                <label>Descrição:</label>
+                <textarea id="descricao"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Prioridade:</label>
+                <select id="prioridade">
+                    <option value="">Selecione</option>
+                    <option value="baixa">Baixa</option>
+                    <option value="media">Média</option>
+                    <option value="alta">Alta</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Data:</label>
+                <input type="date" id="data-meta">
+            </div>
+
+            <button id="btn-add">Adicionar Meta</button>
+
+            <div class="erro"></div>
+        </section>
+
+        <!-- Lista de metas -->
+        <section id="lista">
+            <h2>Lista de Metas</h2>
+            <ul id="lista-metas"></ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Seu Nome — 2025</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
