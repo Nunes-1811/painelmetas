@@ -34,6 +34,9 @@ Feito de aluno para a aluno.
 - Data escolhida para a realização da meta
 
 ---
+## 👥Como Clonar?
+- No terminal do VS Code digite:
+- git clone https://painelmetas.github.io/projeto
 
 ## 📲Como acessar?
 - 1-Baixe o repositório (Clique no botão *"Code"* Download Zip)
