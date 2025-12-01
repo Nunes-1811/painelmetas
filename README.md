@@ -48,6 +48,13 @@ Feito de aluno para a aluno.
 - 👩🏻‍💻Git e GitHub
 - 🌐Navegador Google Chrome (para testes)
 
+## 📝O que aprendi
+- Aprendi DOM
+- Funcionamento de JS
+- Organização para topicos
+
+---
+
 ## 👤Autor
 Desenvolvido por Kaio
 - Turma de Tecnologia Em Informática para internet( Turno da Manhã)-Senac DF
