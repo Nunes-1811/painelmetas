@@ -32,6 +32,11 @@ Feito de aluno para a aluno.
 - Concluir Metas
 - Prioridade de Meta
 - Data escolhida para a realização da meta
+
+---
+
+## 📲Como acessar?
+
 ---
 
 ## ⚙️Tecnologia Usadas
