@@ -45,7 +45,7 @@ Feito de aluno para a aluno.
 ---
 
 ## Acesse o projeto online
- - 
+ - https://painelmetas.github.io/projeto
 
 ---
 
