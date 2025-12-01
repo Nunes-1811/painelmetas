@@ -48,6 +48,8 @@ Feito de aluno para a aluno.
 - 👩🏻‍💻Git e GitHub
 - 🌐Navegador Google Chrome (para testes)
 
+---
+
 ## 📝O que aprendi
 - Aprendi DOM
 - Funcionamento de JS
