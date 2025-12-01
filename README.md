@@ -49,6 +49,7 @@ Feito de aluno para a aluno.
 - 🌐Navegador Google Chrome (para testes)
 
 ## 👤Autor
-Kaio
+Desenvolvido por Kaio
+- Turma de Tecnologia Em Informática para internet( Turno da Manhã)-Senac DF
 
 
