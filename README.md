@@ -36,6 +36,16 @@ Feito de aluno para a aluno.
 ---
 
 ## 📲Como acessar?
+- 1-Baixe o repositório (Clique no botão *"Code"* Download Zip)
+- 2-Extraia a pasta
+- 3-Abra o arquivo index.html no navegador
+
+### ✅ Se o projeto estiver no git hub pages
+
+---
+
+## Acesse o projeto online
+ - 
 
 ---
 
