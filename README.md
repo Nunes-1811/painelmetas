@@ -22,6 +22,14 @@ Feito de aluno para a aluno.
 
 ---
 
+### 📝Funcionalidades
+- Adicionar Metas
+- Remover Metas
+- Concluir Metas
+- Prioridade de Meta
+- Data escolhida para a realização da meta
+---
+
 ## ⚙️Tecnologia Usadas
 
 - </>HTML5
@@ -30,5 +38,8 @@ Feito de aluno para a aluno.
 - 🆚VS Code
 - 👩🏻‍💻Git e GitHub
 - 🌐Navegador Google Chrome (para testes)
+
+## 👤Autor
+Kaio
 
 
